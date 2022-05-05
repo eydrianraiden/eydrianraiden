@@ -1,11 +1,9 @@
 # Sobre Mim
 
 
-- 👋 Hi, I’m @eydrianraiden
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+- 👋 Olá, meu nome é @eydrianraiden
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de Javascript e Scratch
 
 <!---
 eydrianraiden/eydrianraiden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
